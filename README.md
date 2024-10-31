@@ -1,4 +1,4 @@
-# OSSM - Open Source Sex Machine
+# OSSSM - Open Source Super Sex Machine
 
 [![Discord](https://img.shields.io/discord/559409652425687041)](https://discord.gg/wrENMKb3)
 
